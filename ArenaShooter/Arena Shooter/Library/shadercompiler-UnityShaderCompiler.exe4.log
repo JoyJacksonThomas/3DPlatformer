@@ -1,0 +1,6 @@
+Base path: 'C:/Program Files/Unity/Hub/Editor/2019.2.18f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2019.2.18f1/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  error: 2 plat 4 at BoidCompute.compute(22): scalar value expected
+  error: 1 plat 4 at BoidCompute.compute(22): signed/unsigned mismatch, unsigned assumed
+  api=4 insize=1120 outsize=0 ok=0
